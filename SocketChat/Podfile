@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'SocketChat' do
+	pod 'Socket.IO-Client-Swift', '~> 10.0.0'
+end
